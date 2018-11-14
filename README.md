@@ -28,6 +28,7 @@
   <div class="container">
     <h4><b>Reginald Appiah</b></h4> 
     <p>Graphics & Engineer</p> 
+      <p>ofosuappiahr@mail.ru</p>
   </div>
 </div>
 
