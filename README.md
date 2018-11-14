@@ -23,8 +23,8 @@
 
 <h2>Card</h2>
 
-<div class="card">
-  <img src="https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/uk/92/92de092ae72e1458763eb73675f4e5fe8e3b82f4/big.jpg" alt="Avatar" style="width:100%">
+<div class="Business card">
+  <img src="https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/uk/92/92de092ae72e1458763eb73675f4e5fe8e3b82f4/big.jpg" alt="cat" style="width:100%">
   <div class="container">
     <h4><b>Reginald Appiah</b></h4> 
     <p>Graphics & Engineer</p> 
