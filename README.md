@@ -24,7 +24,7 @@
 <h2>Card</h2>
 
 <div class="card">
-  <img src="Flat-Design-Heroes-11.png" alt="Avatar" style="width:100%">
+  <img src="https://yandex.ru/collections/card/58ade697b1ab9d00795f381f/" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Reginald Appiah</b></h4> 
     <p>Graphics & Engineer</p> 
