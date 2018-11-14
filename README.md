@@ -21,7 +21,7 @@
 </head>
 <body>
 
-<h2>Card</h2>
+<h2>Business Card</h2>
 
 <div class="Business card">
   <img src="https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/uk/92/92de092ae72e1458763eb73675f4e5fe8e3b82f4/big.jpg" alt="cat" style="width:100%">
