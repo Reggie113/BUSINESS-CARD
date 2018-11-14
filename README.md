@@ -24,7 +24,7 @@
 <h2>Card</h2>
 
 <div class="Business card">
-  <img src="https://yandex.ru/images/search?pos=1&img_url=https%3A%2F%2Fmynewsla.com%2Fwp-content%2Fuploads%2F2015%2F10%2Fcat-300572_1920.jpg&text=rjirf&rpt=simage" alt="Reggie" style="width:100%">
+  <img src="https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/uk/92/92de092ae72e1458763eb73675f4e5fe8e3b82f4/big.jpg" alt="cat" style="width:100%">
   <div class="container">
     <h4><b>Reginald Appiah</b></h4> 
     <p>Graphics & Engineer</p> 
