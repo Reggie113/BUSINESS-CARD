@@ -16,7 +16,7 @@
   margin-top: 50px;
 }
 section{
-  border: 10px solid cream;
+  border: 10px solid black;
   width: 100%;
   height: 600px;
   text-align: center;
@@ -24,7 +24,7 @@ section{
 nav{
   position: fixed;
   background-color: black;
-  color: white;
+  color: black;
   width: 100%;
   top: 0;
 }
@@ -37,8 +37,8 @@ nav ul > li{
 section > div{
   display: inline-block;
   height: 100%;
-  border: 10px solid white;
-  background-color: blue;
+  border: 10px solid black;
+  background-color: brown;
   color: black;
   font-size: 100px;
 }
