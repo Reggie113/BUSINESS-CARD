@@ -38,7 +38,7 @@ section > div{
   display: inline-block;
   height: 100%;
   border: 10px solid black;
-  background-color: brown;
+  background-color: black;
   color: black;
   font-size: 100px;
 }
@@ -68,9 +68,9 @@ section#portfolio > div{
       <table>
         <tr>
         <th>Price / Item </th>
-        <td>Poster </td>
-        <td>Knitting </td>
-        <td>Painting </td>
+        <td>Foot </td>
+        <td>Dresses </td>
+        <td>Watches </td>
       </tr>
         <tr>
         <th>Minimum price</th>
