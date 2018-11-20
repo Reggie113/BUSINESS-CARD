@@ -80,16 +80,16 @@ section#portfolio > div{
       </tr>
         <tr>
         <th>Complex product</th>
-        <td>от 200 000</td>
-        <td>от 8 000 000</td>
-        <td>от 5 000 000 </td>
+        <td>200 000</td>
+        <td>8 000 000</td>
+        <td>5 000 000 </td>
       </tr>
       </table>
     </section>
     <section id="portfolio">
       <img src="http://imgs.su/tmp/2013-07-06/1373090772-600.jpg">
       <img src="http://img.gdeslon.ru/commodities/big/b69c/fcfa3edd542f80253c6973a7d04e.big.jpg">
-      <img src="https://svetofor.info/images/thumbnails/300/300/detailed/60/casio-mtp-1094q-9b.jpg">
+      <img src="https://images.vcene.com/images/items/12404/type2/7995752.jpg">
     </section>
     <section id="contact">
       <a href="https://www.facebook.com/">CONTACT US ON FB!</a>
