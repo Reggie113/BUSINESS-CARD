@@ -60,7 +60,7 @@ section#portfolio > div{
       </ul>
     </nav>
     <section id="home">
-      <h1>SHOP "A & R"</h1>
+      <h1>"A & R COLLECTION"</h1>
       <p>GET A CLASSIC DRESS FOR A COOL PRICE!</p>
     </section>
     <section id="about">
