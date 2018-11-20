@@ -74,15 +74,15 @@ section#portfolio > div{
       </tr>
         <tr>
         <th>Minimum price</th>
-        <td>50 000</td>
-        <td>90 000</td>
-        <td>120 000 </td>
+        <td>10 000</td>
+        <td>22 000</td>
+        <td>12 000 </td>
       </tr>
         <tr>
         <th>Complex product</th>
-        <td>200 000</td>
-        <td>8 000 000</td>
-        <td>5 000 000 </td>
+        <td>20 000</td>
+        <td>30 000</td>
+        <td>50 000 </td>
       </tr>
       </table>
     </section>
