@@ -1,36 +1,98 @@
-# local-project
 <!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.card {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
-    width: 40%;
+<html lang="en">
+  <head>
+    <title>Hello!</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+    <style>
+      section#home{
+  margin-top: 50px;
 }
-
-.card:hover {
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+section{
+  border: 10px solid cream;
+  width: 100%;
+  height: 600px;
+  text-align: center;
 }
-
-.container {
-    padding: 2px 16px;
+nav{
+  position: fixed;
+  background-color: black;
+  color: white;
+  width: 100%;
+  top: 0;
 }
-</style>
-</head>
-<body>
-
-<h2>Business Card</h2>
-
-<div class="Business card">
-  <img src="https://s3-eu-west-1.amazonaws.com/static.anygator.com/static-anygator2/thumbs/uk/92/92de092ae72e1458763eb73675f4e5fe8e3b82f4/big.jpg" alt="cat" style="width:100%">
-  <div class="container">
-    <h4><b>Reginald Appiah</b></h4> 
-    <p>Graphics & Engineer</p> 
-      <p>ofosuappiahr@mail.ru</p>
-  </div>
-</div>
-
-</body>
-</html> 
+nav a{
+  color: white;
+}
+nav ul > li{
+  display: inline-block;
+}
+section > div{
+  display: inline-block;
+  height: 100%;
+  border: 10px solid white;
+  background-color: blue;
+  color: black;
+  font-size: 100px;
+}
+section#about > div{
+  width: 30%;
+}
+section#portfolio > div{
+  width: 48%;
+}
+    </style>
+  </head>  
+  <body>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <section id="home">
+      <h1>SHOP "A & R"</h1>
+      <p>GET A CLASSIC DRESS FOR A COOL PRICE!</p>
+    </section>
+    <section id="about">
+      <p>Hennes & Mauritz AB is a Swedish multinational clothing-retail company known for its fast-fashion clothing for men, women, teenagers and children. A%R and its associated companies operate in 62 countries with over 4,500 stores and as of 2015 employed around 132,000 people.!</p>
+      <table>
+        <tr>
+        <th>Price / Item </th>
+        <td>Poster </td>
+        <td>Knitting </td>
+        <td>Painting </td>
+      </tr>
+        <tr>
+        <th>Minimum price</th>
+        <td>50 000</td>
+        <td>90 000</td>
+        <td>120 000 </td>
+      </tr>
+        <tr>
+        <th>Complex product</th>
+        <td>от 200 000</td>
+        <td>от 8 000 000</td>
+        <td>от 5 000 000 </td>
+      </tr>
+      </table>
+    </section>
+    <section id="portfolio">
+      <img src="http://imgs.su/tmp/2013-07-06/1373090772-600.jpg">
+      <img src="http://img.gdeslon.ru/commodities/big/b69c/fcfa3edd542f80253c6973a7d04e.big.jpg">
+      <img src="https://svetofor.info/images/thumbnails/300/300/detailed/60/casio-mtp-1094q-9b.jpg">
+    </section>
+    <section id="contact">
+      <a href="https://www.facebook.com/">CONTACT US ON FB!</a>
+    </section>
+  </body>
+</html>
